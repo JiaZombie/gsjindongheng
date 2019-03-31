@@ -20,10 +20,12 @@ p{
 }
 
 #about, #business{
+    display: none;
     padding: 80px 0;
 }
 
 .navbar-default{
+    display: none;
     background-color: #fff;
     border: none;
     box-shadow: 0px 2px 8px 0px rgba(50,50,50,0.25);
@@ -59,6 +61,7 @@ p{
 }
 /*home*/
 #home{
+    display: none;
     margin-top: 70px;
     background: url("../images/home-bg.jpg");
     background-size: cover;
@@ -84,6 +87,7 @@ p{
 
 /*about*/
 #about{
+    display: none;
     background: #f8f8f8;
 }
 #about h2{
@@ -102,6 +106,7 @@ p{
 
 /*contact*/
 #contact{
+    display: none;
     background: url("../images/contact-bg.png") no-repeat;
     background-size: cover;
     color: #ffffff;
@@ -137,6 +142,7 @@ p{
 
 /*footer*/
 footer{
+    display: none;
     font-weight: 400;
     text-align: center;
     padding:20px ;
@@ -144,6 +150,7 @@ footer{
 /*scroll*/
     .is
     {
+        display: none;
         border-top:5px solid #555555;
         border-bottom:5px solid #555555;
     }
